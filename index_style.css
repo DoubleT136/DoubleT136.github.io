@@ -26,6 +26,9 @@ h1 {
         font-family: helvetica;
 }
 
+#bio a {
+        color: #FF7538;
+}
 #email a {
         color: #00BFFF;
 }
